@@ -9,13 +9,13 @@
             "serverInstance": "BC150",
             "port": 15049,
             "authentication": "UserPassword",
-            //"startupObjectId": 22,
-            //"startupObjectType": "Page",
+            //"startupObjectId": 90700,
+            //"startupObjectType": "Table",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "Recreate"
+            "schemaUpdateMode": "Synchronize"
         }
     ]
 }

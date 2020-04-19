@@ -20,6 +20,8 @@ page 90700 "EIE Course Card"
                 field(Price; Price) { ApplicationArea = All; }
                 field(Type; Type) { ApplicationArea = All; }
                 field(Active; Active) { ApplicationArea = All; }
+                field(Difficulty; Difficulty) { ApplicationArea = All; Visible = false; }
+                field("Passing Rate"; "Passing Rate") { ApplicationArea = All; Visible = false; }
                 field("Instructor Code"; "Instructor Code") { ApplicationArea = All; }
                 field("Instructor Name"; "Instructor Name") { ApplicationArea = All; }
             }
